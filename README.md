@@ -6,4 +6,4 @@
 
 **Client:** HTML, TailwindCSS
 
-![image](landingPage.png)
+![image](portfolioJaneCooper.png)
