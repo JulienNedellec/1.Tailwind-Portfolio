@@ -1,6 +1,6 @@
 ## Visualisation
 
-[Voir le site](https://juliennedellec.github.io/LandingPageWithTailwind/)
+[Voir le site]([https://juliennedellec.github.io/LandingPageWithTailwind/](https://juliennedellec.github.io/Portfolio-de-Jane-Cooper/))
 
 ## Tech Stack
 
